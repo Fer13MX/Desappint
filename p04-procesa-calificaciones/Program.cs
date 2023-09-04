@@ -22,12 +22,12 @@ do{
     status= promedio>=6 ? "Aprobado" : "Reprobado";
     Console.WriteLine($"Tu estatus es {status}");
     ne++;
-    promgral+=promedio
+    promgral+=promedio;
     Console.WriteLine($"\nDeseas capturar las calificaciones de otro estudiante? (S/N)");
-    resp= char.TopUpper(Console.ReadLine()[0]);
+    resp= char.ToUpper(Console.ReadLine()[0]);
     Console.WriteLine($"Tu estatus es {status}");
 
-}while(resp!='N')
-promgral=/ne;
+}while(resp!='N');
+promgral=ne;
 Console.WriteLine($"Se procesaron las calificaciones de {ne} estudiantes ");
 Console.WriteLine($"Promedio general de la clase {promgral}");

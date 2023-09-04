@@ -12,3 +12,9 @@
   - p06-factorial-numeros
 # Actividad 3
   - p07-estadiscicas(1)
+# Tarea 1 - Elementos básicos
+  - p08-distancia-puntos
+  - p09-volumen-esfera
+  - p10-calificaciones
+  - p11-venta-articulos
+  - p12-numeros-arreglo
