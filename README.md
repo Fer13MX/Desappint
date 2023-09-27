@@ -18,3 +18,13 @@
   - p10-calificaciones
   - p11-venta-articulos
   - p12-numeros-arreglo
+# Actividad 4
+  - p13-empleado
+  - p14-control-bancario-v1
+# Actividad 5
+  - p15-empleado
+  - p16-control-bancario-v1
+# Tarea 2 
+  - p17-control-ventas-profe
+# Examen parcial 1 
+  - p18-primer-examen-parcial
