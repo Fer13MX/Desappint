@@ -23,8 +23,24 @@
   - p14-control-bancario-v1
 # Actividad 5
   - p15-empleado
-  - p16-control-bancario-v1
 # Tarea 2 
+  - p16-control-ventas-yo
   - p17-control-ventas-profe
 # Examen parcial 1 
   - p18-primer-examen-parcial
+# Actividad 6
+  - p19-linq1
+  - p20-linq2
+  - p21-linq3
+# Actividad 6
+  - p22-linq4
+  - p23-linq5
+# Acticvidad 7 
+  - p24-BlazorServer
+  - p25-TodoList
+# Acticvidad 8 
+  - p26-BlazorServer
+# Tarea 3 
+  - p27-crud-jugador
+# Examen parcial 2 
+  - p28-segundo-examen-parcial
