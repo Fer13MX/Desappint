@@ -44,3 +44,7 @@
   - p27-crud-jugador
 # Examen parcial 2 
   - p28-segundo-examen-parcial
+# Acticvidad 9 
+  - p29-crud-universidad-p1
+# Examen parcial 3 
+  - p30-tercer-examen-parcial
